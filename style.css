@@ -1,0 +1,56 @@
+body {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto;
+}
+
+button {
+    font-family: "Montserrat";
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.green {
+    background-color: #2cd232;
+}
+
+.green {
+    border-color: #2cd232;
+}
+
+.red {
+    background-color: #d22c2c;
+}
+
+.b-red {
+    border-color: #d22c2c;
+}
+
+.yellow {
+    background-color: #d2ca2c;
+}
+
+.yellow {
+    border-color: #d2ca2c;
+}
+
+.b-solid {
+    border-style: solid;
+}
+
+.b-dashed {
+    border-style: dashed;
+}
+
+.b-1 {
+    border-bottom-width: 1px;
+}
+
+.b-2 {
+    border-bottom-width: 2px;
+}
